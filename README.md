@@ -8,5 +8,4 @@
 - 👨‍💻 All of my projects are available at 
 - 📫 How to reach me **het155272@gmail.com**
 
-- 📄 Know about my experiences [https://sunilbishnoi.carrd.co/](https://bishnoisunil.vercel.app/)
-
+- 📄 Know about my experiences 
