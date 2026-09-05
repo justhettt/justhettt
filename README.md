@@ -49,7 +49,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,express,figma,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,express,figma,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ASP.net,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
